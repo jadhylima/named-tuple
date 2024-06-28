@@ -31,12 +31,12 @@ Como Executar:
 Exemplo de Uso
 ---------------------------------------------------------------------------------
 Menu
-1 para adicionar um contato
-2 para remover um contato
-3 para listar todos os contatos
-4 para listar os nomes dos contatos
-5 para buscar um contato utilizando o nome
-0 para sair
+1. para adicionar um contato
+2. para remover um contato
+3. para listar todos os contatos
+4. para listar os nomes dos contatos
+5. para buscar um contato utilizando o nome
+6. para sair
 --> 
 ---------------------------------------------------------------------------------
 Requisitos:
